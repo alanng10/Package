@@ -11,3 +11,7 @@ Package has ultimate arch.
 Package has most general and most level format.
 
 Package has ultimate format.
+
+Package has most general and most level delivery.
+
+Package has ultimate delivery.
