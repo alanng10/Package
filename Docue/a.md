@@ -7,3 +7,7 @@ Package is ultimate package.
 Package has most general and most level arch.
 
 Package has ultimate arch.
+
+Package has most general and most level format.
+
+Package has ultimate format.
