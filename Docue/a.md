@@ -27,3 +27,7 @@ Package has ultimate network.
 Package has most general and most level command.
 
 Package has ultimate command.
+
+Package has most general and most level command arch.
+
+Package has ultimate command arch.
