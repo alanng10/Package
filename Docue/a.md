@@ -15,3 +15,7 @@ Package has ultimate format.
 Package has most general and most level delivery.
 
 Package has ultimate delivery.
+
+Package has most general and most level storage.
+
+Package has ultimate storage.
