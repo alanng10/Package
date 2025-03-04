@@ -59,5 +59,3 @@ Package has park storage.
 Package has park network.
 
 Package has park command.
-
-Package has park command arch.
