@@ -1,4 +1,4 @@
-# Package 
+# Package
 
 Package is package module list written in Class Lang.
 
@@ -50,12 +50,12 @@ Package has park kind arch marry.
 
 Package has park kind arch land.
 
-Package has park format. 
+Package has park format.
 
-Package has park delivery. 
+Package has park delivery.
 
-Package has park storage. 
+Package has park storage.
 
-Package has park network. 
+Package has park network.
 
-Package has park command. 
+Package has park command.
