@@ -61,3 +61,5 @@ Package has park network.
 Package has park command.
 
 Package is did.
+
+Package has major.
